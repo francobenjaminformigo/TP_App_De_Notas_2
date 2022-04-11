@@ -1,0 +1,11 @@
+[
+  { "titulo": "Tarea 1", "estado": "Terminado" },
+  { "titulo": "Tarea 2", "estado": "Terminado" },
+  { "titulo": "Tarea 3", "estado": "Pendiente" },
+  { "titulo": "Tarea 4", "estado": "Pendiente" },
+  { "titulo": "Tarea 5", "estado": "Pendiente" },
+  { "titulo": "Tarea 6", "estado": "Pendiente" },
+  { "titulo": "Nueva", "estado": "Pendiente" },
+  { "titulo": "Bañarse", "estado": "Pendiente" },
+  { "titulo": "nueva", "estado": "Pendiente" }
+]
