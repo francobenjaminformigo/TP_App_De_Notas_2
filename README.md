@@ -5,3 +5,6 @@
 ### Objetivo 
 * Finalizar la app de tareas utilizando las herramientas que aprendimos en todo el módulo de JS101 partiendo de la ejercitación de la clase 2 finalizada.
 
+#
+### **_Módulo 2, Clase 6_**
+##
